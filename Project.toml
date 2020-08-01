@@ -1,0 +1,7 @@
+name = "FindDifferences"
+uuid = "c4c61aae-d3da-11ea-31de-7111274e90f0"
+authors = ["Soyukke"]
+version = "0.1.0"
+
+[deps]
+Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
